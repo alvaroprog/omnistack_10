@@ -13,7 +13,7 @@ const Routes = createAppContainer(
             }
         },
         Profile: {
-            screen: Main,
+            screen: Profile,
             navigationOptions: {
                 title: 'Perfil no GitHub'
             }
